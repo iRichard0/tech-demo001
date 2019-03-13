@@ -1,2 +1,4 @@
 This is a demo file!
 recommit to remote server by short name
+----------------------------------------------------
+recommit to remote server by ssh
