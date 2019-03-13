@@ -3,4 +3,8 @@ recommit to remote server by short name
 ----------------------------------------------------
 recommit to remote server by ssh
 ----------------------------------------------------
+<<<<<<< HEAD
 I am changing the file and I am agan1024.
+=======
+I am changing the file and I am iRichard0.
+>>>>>>> origin/master
